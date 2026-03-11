@@ -27,7 +27,6 @@ Some example projects:
 
 * Simple Calculator
 * Number Guessing Game
-* Password Generator
 * Snake Water Gun Game
 
 ## Author
