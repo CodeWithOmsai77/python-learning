@@ -1,4 +1,4 @@
-# 🐍 Python Learning Repository
+# 🐍 Python Learning 
 
 This repository documents my structured journey of learning Python, covering core fundamentals to advanced concepts through hands-on coding, practice exercises, and mini-projects.
 
