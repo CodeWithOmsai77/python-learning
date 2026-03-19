@@ -54,4 +54,4 @@ These projects demonstrate the implementation of core programming concepts in an
 ## 👤 Author
 
 **Omsai Dasari**
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer&fontSize=16&fontColor=ffffff"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=11998e&height=80&section=footer&fontSize=16&fontColor=0f2027"/> </p>
